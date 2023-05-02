@@ -1,0 +1,43 @@
+body{
+    background-image: url("assets/white-sky-background-is81b.webp");
+    background size: cover;
+}
+
+h1{
+    color: darkred;
+    background: local;    
+}
+
+h2{
+    font-display: initial;
+    font-style: italic;
+    border-style: dotted;
+    border-width: cap;
+    border-color: blue;
+    border-radius: 10pt;
+}
+.para1{
+width: 500px;
+padding-left: 100px;
+padding-right: 100px;
+text-align: center;
+color: crimson;
+}
+
+.Ingredients{
+    width: 250px;
+    height 100px;
+    background-image:url(assets/Free-Food-Border-Illustration-1.webp);
+    background-size: 590px;
+    padding-left: 50px;
+    border-style:solid;
+    color: hwb(0 0% 98%);
+    font-size: larger;
+    border-color: #0ad4eb;
+    border-width: 7px;
+    border-spacing: 0cm;    
+}
+
+section{
+    align-content: center;
+}
